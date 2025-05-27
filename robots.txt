@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://konveksi.erpindonesia.web.id/sitemap.xml
